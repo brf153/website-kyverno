@@ -81,8 +81,7 @@ cd kyverno-website
 hugo server 
 
 ```
-
-**Note:** When running the `hugo server` command, make sure to execute it with administrator privileges in your terminal. This is necessary to ensure proper access and functionality during the server execution.
+**Note For Windows Users:** When running the `hugo server` command, make sure to execute it with administrator privileges in your terminal. This is necessary to ensure proper access and functionality during the server execution.
 
 5.  **Stage, Commit and Push changes:**
 
