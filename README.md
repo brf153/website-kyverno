@@ -28,8 +28,10 @@ git clone https://github.com/{YOUR-GITHUB-ID}/website kyverno-website/
 
 ```sh
 cd kyverno-website
-hugo server -v
+hugo server 
 ```
+
+**Note:** When running the `hugo server` command, make sure to execute it with administrator privileges in your terminal. This is necessary to ensure proper access and functionality during the server execution.
 
 By default, Hugo runs the website at: http://localhost:1313 and will re-build the site on changes.
 
